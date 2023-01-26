@@ -162,6 +162,7 @@ aside {
   box-sizing: border-box;
   position: absolute;
   right: 0;
+  padding-right: 24px;
 }
 /* ShoppingCart */
 #shoppingCartContainer{
